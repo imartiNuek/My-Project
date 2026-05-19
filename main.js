@@ -11,3 +11,7 @@ function camera() {
     //function para abrir la camara
 
 }
+
+function gps(){
+    //gps
+}
