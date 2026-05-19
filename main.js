@@ -5,6 +5,7 @@ console.log("home created");
 function login() {
     //function para el login
     //corrección de un bug en login
+    //mejora login con LDAP
     console.log("login");
 }
 
