@@ -9,8 +9,10 @@ function login() {
 }
 
 function camera() {
+    //cambios nuestros arreglar la camara
     //Cambios de nuestro compañero
-    //function para abrir la camara
+    //función para la camara fixed
+
 
 }
 
