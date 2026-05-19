@@ -5,7 +5,8 @@ console.log("home created");
 function login() {
     //function para el login
     //corrección de un bug en login
-    console.log("login");
+    //Nueva corrección bug en dispositibos iOS
+    console.log("login new");
 }
 
 function camera() {
