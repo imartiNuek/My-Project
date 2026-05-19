@@ -9,6 +9,7 @@ function login() {
 }
 
 function camera() {
+    //Cambios de nuestro compañero
     //function para abrir la camara
 
 }
