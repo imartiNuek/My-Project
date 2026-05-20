@@ -8,3 +8,4 @@ Cambios que se bajarn con git pull
 Cambios que se bajaran con git fetch
 Prueba git push force
 Segona prova git push force
+Forçant error
