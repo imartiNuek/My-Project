@@ -22,3 +22,5 @@ function gps(){
     //mas funcionalidades
     //gps fix
 }
+
+//Otro desarrollo
