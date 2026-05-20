@@ -5,3 +5,4 @@ Cambios que se bajarn con git pull
 - Millores pagina principal
 
 Cambios que se bajaran con git fetch
+Prueba git push force
