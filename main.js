@@ -26,6 +26,7 @@ function gps(){
     //cambios nuestros para arreglar gps
     //mas funcionalidades
     //gps fix
+    
 }
 
 //Otro desarrollo
