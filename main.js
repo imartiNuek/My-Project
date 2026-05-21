@@ -9,6 +9,11 @@ function login() {
     console.log("login new");
 }
 
+function logout(){
+    //function para el logout
+    console.log("logout");
+}
+
 function camera() {
     //cambios nuestros arreglar la camara
     //Cambios de nuestro compañero
