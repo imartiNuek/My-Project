@@ -1,0 +1,17 @@
+stages:
+  - test
+  - deploy
+
+
+test_job:
+  stage: test
+  script:
+    - echo "Ejecutando mi Pipeline"
+    - echo "Todo ha salido bien"
+
+
+deploy_job:
+  stage: deploy
+  script:
+    - echo "Ejecutando desde la etapa deploy"
+    - echo "Deploy simulado completo
